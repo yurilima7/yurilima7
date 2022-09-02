@@ -26,7 +26,9 @@
     <img align = "center" alt = "GitHub" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/>
 
- <div> 
+##
+  
+<div> 
   
   ![Snake animation](https://github.com/yurilima7/yurilima7/blob/output/github-contribution-grid-snake.svg)
   
