@@ -1,7 +1,7 @@
 ## Olá! 👋 Eu sou Yuri Lima
 
 - 🔭 Atualmente cursando Ciência da Computação no Instituto Federal do Maranhão - Campus Caxias
-- 🌱 Estudando Flutter e Python
+- 🌱 Estudando Flutter e Web
 
 ## GitHub Analytics
 <div>
