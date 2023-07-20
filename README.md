@@ -24,11 +24,3 @@
     <img align = "center" alt = "VS Code" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img align = "center" alt = "GitHub" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/>
-
-##
-  
-<div> 
-  
-  ![Snake animation](https://github.com/yurilima7/yurilima7/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
