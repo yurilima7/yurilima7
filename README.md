@@ -4,9 +4,9 @@
 
 - 🔥 Desenvolvedor Mobile - Flutter | Dart
 - 🔭 Acadêmico de Ciência da Computação no Instituto Federal do Maranhão - Campus Caxias
-- 🌱 Estudando Flutter, UX/UI Design e NextJS
-- 💬 Pergunte-me sobre **Dart, Flutter, UX/UI Design, Firebase, FastAPI**
-- 👨‍💻 Mais projetos no meu portfolio: [yurilimadev](https://yurilimadev.netlify.app)
+- 🌱 Estudando Flutter, NextJS e UX/UI Design
+- 💬 Pergunte-me sobre **Dart, Flutter, Firebase, UX/UI Design**
+- 👨‍💻 Projetos do meu portfolio: [yurilimadev](https://yurilimadev.netlify.app)
 
 ## GitHub Analytics
 <div>
@@ -15,12 +15,13 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yurilima7&layout=compact&langs_count=5&theme=tokyonight"/>
 </div><br/>
 
-## Redes Sociais
+## Redes Sociais e Contatos
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yurilima.7/)&nbsp;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-lima7)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+[![Portfolio](https://img.shields.io/badge/website-111540?style=for-the-badge&logo=About.me&logoColor=white)](https://yurilimadev.netlify.app)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-## Tecnologias que uso no dia a dia
+## Tecnologias
 ### Desenvolvimento Mobile
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
