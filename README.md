@@ -4,9 +4,9 @@
 
 - 🔥 Desenvolvedor Mobile - Flutter | Dart
 - 🔭 Acadêmico de Ciência da Computação no Instituto Federal do Maranhão - Campus Caxias
-- 🌱 Estudando Flutter e UX/UI Design
+- 🌱 Estudando Flutter, UX/UI Design e NextJS
 - 💬 Pergunte-me sobre **Dart, Flutter, UX/UI Design, Firebase, FastAPI**
-- 👨‍💻 Mais no meu portfolio [yurilimadev](https://yurilimadev.netlify.app)
+- 👨‍💻 Mais projetos no meu portfolio: [yurilimadev](https://yurilimadev.netlify.app)
 
 ## GitHub Analytics
 <div>
@@ -16,17 +16,27 @@
 </div><br/>
 
 ## Redes Sociais
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yurilima.7/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-lima7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yurilima.7/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-lima7)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 ## Tecnologias que uso no dia a dia
-<div style = "display: inline_block">
-    <img align = "center" alt = "Dart" src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img align = "center" alt = "Flutter" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img align = "center" alt = "GitHub" src = "https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-    <img align = "center" alt = "Python" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align = "center" alt = "GitHub" src = "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-    <img align = "center" alt = "Figma" src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=whi" />
-    <img align = "center" alt = "VS Code" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img align = "center" alt = "GitHub" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</div><br/>
+### Desenvolvimento Mobile
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
+
+### Backend
+![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+
+### Design e Prototipagem
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+### Ferramentas de Desenvolvimento
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-2D2D2D?style=for-the-badge&logo=Pycharm&logoColor=3FDB82)&nbsp;
+![PyCharm](https://img.shields.io/badge/Android_Studio-2D2D2D?style=for-the-badge&logo=android-studio&logoColor=3DDC84)&nbsp;
+
