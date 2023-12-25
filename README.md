@@ -6,7 +6,7 @@
 - 🔭 Acadêmico de Ciência da Computação no Instituto Federal do Maranhão - Campus Caxias
 - 🌱 Estudando Flutter, NextJS e UX/UI Design
 - 💬 Pergunte-me sobre **Dart, Flutter, Firebase, UX/UI Design**
-- 👨‍💻 Projetos do meu portfolio: [yurilimadev](https://yurilimadev.netlify.app)
+- 👨‍💻 Projetos do meu portfolio: [yurilimadev](https://yurilimadev.netlify.app){:target="_blank"}
 
 ## GitHub Analytics
 <div>
@@ -16,9 +16,9 @@
 </div><br/>
 
 ## Redes Sociais e Contatos
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yurilima.7/)&nbsp;
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-lima7)&nbsp;
-[![Portfolio](https://img.shields.io/badge/website-111540?style=for-the-badge&logo=About.me&logoColor=white)](https://yurilimadev.netlify.app)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yurilima.7/){:target="_blank"}&nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-lima7){:target="_blank"}&nbsp;
+[![Portfolio](https://img.shields.io/badge/website-111540?style=for-the-badge&logo=About.me&logoColor=white)](https://yurilimadev.netlify.app){:target="_blank"}&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 ## Tecnologias
