@@ -1,12 +1,10 @@
 ## Olá! 👋 Me chamo Yuri Lima
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yurilima7&color=blue" alt="Profile views" /> </p>
-
 - 🔥 Desenvolvedor Mobile - Flutter | Dart
 - 🔭 Acadêmico de Ciência da Computação no Instituto Federal do Maranhão - Campus Caxias
 - 🌱 Estudando Flutter, NextJS e UX/UI Design
 - 💬 Pergunte-me sobre **Dart, Flutter, Firebase, UX/UI Design**
-- 👨‍💻 Projetos do meu portfolio: <a href="https://yurilimadev.netlify.app" target="_blank">yurilimadev</a>
+- 👨‍💻 Projetos do meu portfolio: [yurilimadev](https://yurilimadev.netlify.app)
 
 ## GitHub Analytics
 <div>
@@ -16,11 +14,10 @@
 </div><br/>
 
 ## Redes Sociais e Contatos
-<a href="https://www.instagram.com/yurilima.7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
-<a href="https://www.linkedin.com/in/yuri-lima7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-<a href="https://yurilimadev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/website-111540?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;
-<a href="https://github.com/yurilima7" target="_blank"><img src="https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yurilima.7/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-lima7)&nbsp;
+[![Portfolio](https://img.shields.io/badge/website-111540?style=for-the-badge&logo=About.me&logoColor=white)](https://yurilimadev.netlify.app)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 ## Tecnologias
 ### Desenvolvimento Mobile
