@@ -1,17 +1,35 @@
-## Olá! 👋 Me chamo Yuri Lima
+## Olá! 👋 Me meu nome é Yuri Lima
 
 - 🔥 Desenvolvedor Mobile - Flutter | Dart
 - 🔭 Acadêmico de Ciência da Computação no Instituto Federal do Maranhão - Campus Caxias
 - 🌱 Estudando Flutter, NextJS e UX/UI Design
 - 💬 Pergunte-me sobre **Dart, Flutter, Firebase, UX/UI Design**
-- 👨‍💻 Projetos do meu portfolio: [yurilimadev](https://yurilimadev.netlify.app)
+- 👨‍💻 Meus projetos estão disponíveis em: [yurilimadev](https://yurilimadev.netlify.app)
+- 📫 How to reach me **yurilima742@gmail.com**
 
 ## GitHub Analytics
 <div>
   <a href="https://github.com/yurilima7">
-  <img height="180em" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=yurilima7&show_icons=true&count_private=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yurilima7&layout=compact&langs_count=5&theme=tokyonight"/>
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=yurilima7&show_icons=true&count_private=true&theme=tokyonight">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yurilima7&layout=compact&langs_count=6&theme=tokyonight"/>
 </div><br/>
+
+## Principais Projetos
+<div align="start">
+  <a href="https://github.com/yurilima7/Sales-Manager-2.0">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&theme=tokyonight&repo=Sales-Manager-2.0" alt="Sales-Manager-2.0" />
+  </a>
+  <a href="https://github.com/yurilima7/Acad-Facil">
+    <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&theme=tokyonight&repo=Acad-Facil" alt="Zodiac-Identifier" />
+  </a>
+  <a href="https://github.com/yurilima7/Zodiac-Identifier">
+    <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&theme=tokyonight&repo=Zodiac-Identifier" alt="Zodiac-Identifier" />
+  </a>
+  <a href="https://github.com/yurilima7/Delivery-App">
+    <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&theme=tokyonight&repo=Delivery-App" alt="Delivery-App" />
+  </a>
+</div><br/>
+
 
 ## Redes Sociais e Contatos
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yurilima.7/)&nbsp;
@@ -23,9 +41,17 @@
 ### Desenvolvimento Mobile
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
+
+### Desenvolvimento Web
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-2D2D2D.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
