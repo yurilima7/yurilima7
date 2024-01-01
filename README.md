@@ -1,11 +1,11 @@
-## Olá! 👋 Me meu nome é Yuri Lima
+## Olá! 👋 Meu nome é Yuri Lima
 
 - 🔥 Desenvolvedor Mobile - Flutter | Dart
 - 🔭 Acadêmico de Ciência da Computação no Instituto Federal do Maranhão - Campus Caxias
 - 🌱 Estudando Flutter, NextJS e UX/UI Design
 - 💬 Pergunte-me sobre **Dart, Flutter, Firebase, UX/UI Design**
-- 👨‍💻 Meus projetos estão disponíveis em: [yurilimadev](https://yurilimadev.netlify.app)
-- 📫 How to reach me **yurilima742@gmail.com**
+- 👨‍💻 Meus projetos de portfólio: **https://yurilimadev.netlify.app**
+- 📫 Como entrar em contato comigo: **yurilima742@gmail.com**
 
 ## GitHub Analytics
 <div>
