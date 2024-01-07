@@ -5,7 +5,7 @@
 - 🌱 Estudando Flutter, NextJS e UX/UI Design
 - 💬 Pergunte-me sobre **Dart, Flutter, Firebase, UX/UI Design**
 - 👨‍💻 Meus projetos de portfólio: **https://yurilimadev.netlify.app**
-- 📫 Como entrar em contato comigo: **yurilima742@gmail.com**
+- 📫 Como entrar em contato comigo: **yurilimadev7@gmail.com**
 
 ## GitHub Analytics
 <div>
@@ -26,7 +26,7 @@
     <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&theme=tokyonight&repo=Zodiac-Identifier" alt="Zodiac-Identifier" />
   </a>
   <a href="https://github.com/yurilima7/Delivery-App">
-    <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&theme=tokyonight&repo=Delivery-App" alt="Delivery-App" />
+    <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&theme=tokyonight&repo=Somador-de-Compras" alt="Somador-de-Compras-App" />
   </a>
 </div><br/>
 
