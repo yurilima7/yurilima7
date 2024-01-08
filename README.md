@@ -36,6 +36,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-lima7)&nbsp;
 [![Portfolio](https://img.shields.io/badge/website-111540?style=for-the-badge&logo=About.me&logoColor=white)](https://yurilimadev.netlify.app)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-939?style=for-the-badge)](https://web.dio.me/users/yurilima742/)&nbsp;
 
 ## Tecnologias
 ### Desenvolvimento Mobile
@@ -63,5 +64,5 @@
 ### Ferramentas de Desenvolvimento
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-2D2D2D?style=for-the-badge&logo=Pycharm&logoColor=3FDB82)&nbsp;
-![PyCharm](https://img.shields.io/badge/Android_Studio-2D2D2D?style=for-the-badge&logo=android-studio&logoColor=3DDC84)&nbsp;
-
+![Android Studio](https://img.shields.io/badge/Android_Studio-2D2D2D?style=for-the-badge&logo=android-studio&logoColor=3DDC84)&nbsp;
+[![Git](https://img.shields.io/badge/Git-F24E1E?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc)
