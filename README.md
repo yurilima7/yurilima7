@@ -36,7 +36,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-lima7)&nbsp;
 [![Portfolio](https://img.shields.io/badge/website-111540?style=for-the-badge&logo=About.me&logoColor=white)](https://yurilimadev.netlify.app)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-939?style=for-the-badge)](https://web.dio.me/users/yurilima742/)&nbsp;
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-939?style=for-the-badge)](https://www.dio.me/users/yurilima742/)&nbsp;
 
 ## Tecnologias
 ### Desenvolvimento Mobile
