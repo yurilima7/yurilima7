@@ -17,16 +17,16 @@
 ## Principais Projetos
 <div align="start">
   <a href="https://github.com/yurilima7/Sales-Manager-2.0">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&theme=tokyonight&repo=Sales-Manager-2.0" alt="Sales-Manager-2.0" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&layout=compact&theme=tokyonight&repo=Sales-Manager-2.0" alt="Sales-Manager-2.0" />
   </a>
   <a href="https://github.com/yurilima7/Acad-Facil">
-    <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&theme=tokyonight&repo=Acad-Facil" alt="Zodiac-Identifier" />
+    <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&layout=compact&theme=tokyonight&repo=Acad-Facil" alt="Acad-Fácil" />
   </a>
   <a href="https://github.com/yurilima7/Zodiac-Identifier">
-    <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&theme=tokyonight&repo=Zodiac-Identifier" alt="Zodiac-Identifier" />
+    <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&layout=compact&theme=tokyonight&repo=Zodiac-Identifier" alt="Zodiac-Identifier" />
   </a>
   <a href="https://github.com/yurilima7/Delivery-App">
-    <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&theme=tokyonight&repo=Somador-de-Compras" alt="Somador-de-Compras-App" />
+    <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&layout=compact&theme=tokyonight&repo=Somador-de-Compras" alt="Somador-de-Compras-App" />
   </a>
 </div><br/>
 
