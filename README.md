@@ -10,8 +10,8 @@
 ## GitHub Analytics
 <div>
   <a href="https://github.com/yurilima7">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=yurilima7&show_icons=true&count_private=true&theme=tokyonight">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yurilima7&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=yurilima7&count_private=true&show_icons=true&theme=tokyonight">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yurilima7&hide=java,blade&layout=compact&langs_count=6&theme=tokyonight"/>
 </div><br/>
 
 ## Principais Projetos
