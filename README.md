@@ -25,8 +25,8 @@
   <a href="https://github.com/yurilima7/Zodiac-Identifier">
     <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&layout=compact&theme=tokyonight&repo=Zodiac-Identifier" alt="Zodiac-Identifier" />
   </a>
-  <a href="https://github.com/yurilima7/Delivery-App">
-    <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&layout=compact&theme=tokyonight&repo=Somador-de-Compras" alt="Somador-de-Compras-App" />
+  <a href="https://github.com/yurilima7/Busca-Cep">
+    <img  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=yurilima7&layout=compact&theme=tokyonight&repo=Busca-Cep" alt="Busca-Cep" />
   </a>
 </div><br/>
 
